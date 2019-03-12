@@ -75,7 +75,7 @@ const App = () => {
                     className="btn btn-primary btn-block"
                     onClick={addProject}
                   >
-                    Add Project
+                    Create To Do List
                   </button>
                 </div>
               </div>
